@@ -1,0 +1,50 @@
+﻿.navbar-default .navbar-link {
+    color: #777777 !important;
+}
+
+    .navbar-default .navbar-link:hover {
+        color: #333333 !important;
+    }
+
+.navbar-inverse {
+    background-color: teal !important;
+    border-color: #080808 !important;
+}
+
+    .navbar-inverse .navbar-brand {
+        color: gold !important;
+    }
+
+        .navbar-inverse .navbar-brand:hover,
+        .navbar-inverse .navbar-brand:focus {
+            color: #00fdff !important;
+            background-color: transparent !important;
+        }
+
+    .navbar-inverse .navbar-text {
+        color: #999999 !important;
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: goldenrod !important;
+    }
+
+        .navbar-inverse .navbar-nav > li > a:hover,
+        .navbar-inverse .navbar-nav > li > a:focus {
+            color: #bcf3e7 !important;
+            background-color: transparent !important;
+        }
+
+    .navbar-inverse .navbar-nav > .active > a,
+    .navbar-inverse .navbar-nav > .active > a:hover,
+    .navbar-inverse .navbar-nav > .active > a:focus {
+        color: #ffffff !important;
+        background-color: #080808 !important;
+    }
+
+    .navbar-inverse .navbar-nav > .disabled > a,
+    .navbar-inverse .navbar-nav > .disabled > a:hover,
+    .navbar-inverse .navbar-nav > .disabled > a:focus {
+        color: #444444 !important;
+        background-color: transparent !important;
+    }
